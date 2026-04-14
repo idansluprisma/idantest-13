@@ -29,7 +29,7 @@
     "passport-local": "1.0.0",
     "lodash": "4.17.20",
     "xlsx": "0.18.5",
-    "axios": "0.9.1"
+    "axios": "0.21.1"
   },
   "description": "backend logic of the project using Mongo DB, Node js",
   "devDependencies": {
